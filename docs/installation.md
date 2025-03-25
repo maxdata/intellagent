@@ -114,4 +114,5 @@ cd simulator/visualization
 streamlit run Simulator_Visualizer.py
 ```
 This will launch a Streamlit dashboard showing detailed analytics and visualizations of your simulation results.
-```
+
+uv sync

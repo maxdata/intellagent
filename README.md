@@ -66,11 +66,11 @@ git clone git@github.com:plurai-ai/intellagent.git
 cd intellagent
 ```
 
-You can use Conda or pip to install the dependencies.
+You can use Conda or uv to install the dependencies.
 
-Using pip: 
+Using uv: 
 ```bash
-pip install -r requirements.txt
+uv sync
 ```
 
 
@@ -153,7 +153,7 @@ This will launch a[ Streamlit dashboard](./README.md#-demo) showing detailed ana
 
 ## 🚀 Community & Contributing
 
-Your contributions are greatly appreciated! If you're eager to contribute, kindly refer to our [Contributing Guidelines](docs/contributing.md)) for detailed information. We’re particularly keen on receiving new examples and environments to enrich the project.
+Your contributions are greatly appreciated! If you're eager to contribute, kindly refer to our [Contributing Guidelines](docs/contributing.md)) for detailed information. We're particularly keen on receiving new examples and environments to enrich the project.
 
 If you wish to be part of our journey, join our [Discord Community](https://discord.gg/YWbT87vAau) and subscribe to our [Newsletter](https://plurai.substack.com/). Stay updated on the latest advancements, open-source releases, and cutting-edge tools driving the future of Reliable Conversational AI. We're excited to have you with us!
 
